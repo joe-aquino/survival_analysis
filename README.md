@@ -2,7 +2,7 @@
 
 ---
 
-#### Build a predictive model of one-year survival after diagnosis with non-small cell lung cancer
+### Build a predictive model of one-year survival after diagnosis with non-small cell lung cancer
 
 I use Cox proportional hazards regression with elastic net regularization for my survival model.
 
