@@ -4,4 +4,4 @@ I use Cox proportional hazards regression with elastic net regularization for my
 
 <br>
 
-I invite you to view my [completed project](https://htmlpreview.github.io/?https://github.com/joe-aquino/survival_analysis/blob/master/Survival_Model_NSC_Lung_Cancer.html) and its associated [presentation slides](https://htmlpreview.github.io/?https://github.com/joe-aquino/survival_analysis/blob/master/Survival_Slides.pdf.html).
+I invite you to view my [completed project](https://joe-aquino.github.io/survival_analysis/Survival_Model_NSC_Lung_Cancer.html) and its associated [presentation slides](https://joe-aquino.github.io/survival_analysis/Survival_Slides.pdf).
